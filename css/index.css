@@ -1367,7 +1367,7 @@ main .pc-recrute {
 main .pc-recrute .re-img {
   position: relative;
   z-index: 100;
-  background-image: url(../images/reress.png);
+  background-image: url(../images/left-slide.png);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -1411,7 +1411,7 @@ main .pc-recrute .re-img .left-fdin .recrute-text1 {
 
 main .pc-recrute .cu-img {
   position: absolute;
-  background-image: url(../images/reee.png);
+  background-image: url(../images/right-slide.png);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
